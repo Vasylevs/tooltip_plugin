@@ -5,7 +5,7 @@
 <p>Add example code in you project</p>
 <pre>
         $(function () {
-           $('a, .hint').tooltip();
+           $('a, .hint').tooltipF();
         });
 </pre>
 <p>Next, add the desired selector in function. If you wont highlight a word put him in "span"</p>

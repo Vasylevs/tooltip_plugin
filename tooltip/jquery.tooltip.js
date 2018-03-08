@@ -1,5 +1,5 @@
 ;(function ($) {
-    $.fn.tooltip = function () {
+    $.fn.tooltipF = function () {
         $('body').append('<div class="tooltip-block"></div>');
         var title;
         return this.each(function () {
